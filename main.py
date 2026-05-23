@@ -99,7 +99,7 @@ def encode_blocks(pixels, h, block_size=2):
 
 
 if __name__ == '__main__':
-    img_path = 'image_2.bmp'
+    img_path = 'images/image_2.bmp'
     p, h = calc_entropy(img_path)
 
     if p is not None and h is not None:
