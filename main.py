@@ -1,6 +1,7 @@
 import numpy as np
 from PIL import Image
 import math
+from pathlib import Path
 
 
 def get_probs(img_arr):
@@ -51,7 +52,7 @@ def calc_kl(p_img, q_img):
 
 
 if __name__ == '__main__':
-    img_path = 'image.jpg'
+    img_path = 'input_img/image.jpg'
 
     try:
         img = Image.open(img_path).convert('L')
@@ -61,6 +62,15 @@ if __name__ == '__main__':
 
     orig_arr = np.array(img)
     h, w = orig_arr.shape
+
+    base_out_dir = Path('output_img')
+    dir_restored = base_out_dir / 'restored'
+    dir_quant_discr = base_out_dir / 'quantized_after_discretization'
+    dir_quant_orig = base_out_dir / 'quantized_original'
+
+    dir_restored.mkdir(parents=True, exist_ok=True)
+    dir_quant_discr.mkdir(parents=True, exist_ok=True)
+    dir_quant_orig.mkdir(parents=True, exist_ok=True)
 
     print(f"Розмір: {w}x{h}")
     orig_h = calc_entropy(orig_arr)
@@ -75,7 +85,8 @@ if __name__ == '__main__':
         discr = discretize(orig_arr, s)
         restored = restore(discr, w, h)
 
-        Image.fromarray(restored).save(f"rest_step_{s}.jpg")
+        restored_path = dir_restored / f"rest_step_{s}.jpg"
+        Image.fromarray(restored).save(restored_path)
 
         h_restored = calc_entropy(restored)
         print(f"H (після відновлення): {h_restored:.4f}\n")
@@ -84,7 +95,9 @@ if __name__ == '__main__':
             print(f"Квантування на {l} рівнів:")
 
             quant_img = quantize(restored, l)
-            Image.fromarray(quant_img).save(f"quant_s{s}_l{l}.jpg")
+
+            quant_discr_path = dir_quant_discr / f"quant_s{s}_l{l}.jpg"
+            Image.fromarray(quant_img).save(quant_discr_path)
 
             h_quant = calc_entropy(quant_img)
             kl = calc_kl(orig_arr, quant_img)
@@ -95,7 +108,9 @@ if __name__ == '__main__':
     print("Квантування оригінального зображення:")
     for l in levels:
         q_orig = quantize(orig_arr, l)
-        Image.fromarray(q_orig).save(f"quant_orig_{l}.jpg")
+
+        quant_orig_path = dir_quant_orig / f"quant_orig_{l}.jpg"
+        Image.fromarray(q_orig).save(quant_orig_path)
 
         h_orig = calc_entropy(q_orig)
         kl_orig = calc_kl(orig_arr, q_orig)
