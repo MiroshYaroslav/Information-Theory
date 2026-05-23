@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d38f87b-c626-4c04-9063-049ed9d325a4" name="Changes" comment="Update .gitignore to ignore the .idea directory">
+      <change afterPath="$PROJECT_DIR$/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Лаб_1_ТІ.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Information theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="d0c941cc-b1a5-41d6-90a5-66ce4c402018" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="d0c941cc-b1a5-41d6-90a5-66ce4c402018" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Information theory" value="3ArOGTl6wVHCGr6DOnSrVTZR4fS" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MiroshYaroslav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiroshYaroslav/Information-Theory.git&quot;,
+    &quot;accountId&quot;: &quot;75b0f6a0-f655-440d-aef5-7e102934a655&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000004649843" />
+      <entry key="M5" value="1.0029838316670527" />
+      <entry key="M10" value="1.6045896044800534" />
+      <entry key="M15" value="4.605838018694067" />
+      <entry key="M30" value="22.704905518960157" />
+      <entry key="H1" value="54.453765933904236" />
+      <entry key="H2" value="84.97025402453885" />
+      <entry key="H4" value="106.27168275786028" />
+      <entry key="D1" value="128.11345810055985" />
+      <entry key="W1" value="132.29054692823166" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.262208990089421E-267" />
+      <entry key="S10" value="6.528559559617838E-134" />
+      <entry key="S30" value="4.0291919874961685E-45" />
+      <entry key="S60" value="6.506368025090157E-23" />
+      <entry key="M2" value="9.234022420542391E-12" />
+      <entry key="M5" value="5.377780697214263E-5" />
+      <entry key="M10" value="0.01020379099815642" />
+      <entry key="M15" value="0.05905282351948905" />
+      <entry key="M30" value="0.3430236979475422" />
+      <entry key="H1" value="0.8278918232540353" />
+      <entry key="H2" value="1.2866217418907846" />
+      <entry key="H4" value="1.6040862315171946" />
+      <entry key="D1" value="1.9277964674535726" />
+      <entry key="W1" value="1.989521757624426" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.11343989441464511" />
+      <entry key="MS500" value="0.6470728272414268" />
+      <entry key="S2" value="0.8968881596620148" />
+      <entry key="S5" value="0.9574041733966575" />
+      <entry key="S10" value="0.9784703232069215" />
+      <entry key="S30" value="0.9927713130632075" />
+      <entry key="S60" value="0.9963791010770988" />
+      <entry key="M2" value="0.9981879091752429" />
+      <entry key="M5" value="1.0023121498825474" />
+      <entry key="M10" value="1.6144076576183701" />
+      <entry key="M15" value="4.664557773218488" />
+      <entry key="M30" value="23.047535315129252" />
+      <entry key="H1" value="55.281262408405475" />
+      <entry key="H2" value="86.25658303829813" />
+      <entry key="H4" value="107.87558950648067" />
+      <entry key="D1" value="130.04121900062896" />
+      <entry key="W1" value="134.28006345043374" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3ArOGTl6wVHCGr6DOnSrVTZR4fS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.generate.executor": "Run",
+    "Python.lab_1.executor": "Run",
+    "Python.lab_2.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "lab1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Information theory",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Information theory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Information theory" />
+      <recent name="C:\Information theory\lab_2\input_img" />
+      <recent name="C:\Information theory\images" />
+      <recent name="C:\Information theory\lab_2" />
+      <recent name="C:\Information theory\lab_1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d38f87b-c626-4c04-9063-049ed9d325a4" name="Changes" comment="" />
+      <created>1773347127207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773347127207</updated>
+      <workItem from="1773347128214" duration="5182000" />
+      <workItem from="1774558487240" duration="2536000" />
+      <workItem from="1774563606584" duration="4000" />
+      <workItem from="1778187658227" duration="2647000" />
+      <workItem from="1778234538528" duration="4000" />
+      <workItem from="1779539961180" duration="935000" />
+      <workItem from="1779540934683" duration="2769000" />
+      <workItem from="1779546319593" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Git VCS mapping to project configuration">
+      <option name="closed" value="true" />
+      <created>1779540779793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779540779793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Git VCS directory mapping to project configuration">
+      <option name="closed" value="true" />
+      <created>1779540967445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779540967445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update image path in main.py for correct directory structure">
+      <option name="closed" value="true" />
+      <created>1779546011397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779546011397</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add image processing functions for entropy calculation and quantization">
+      <option name="closed" value="true" />
+      <created>1779546440094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779546440094</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update .gitignore to ignore the .idea directory">
+      <option name="closed" value="true" />
+      <created>1779546535602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779546535602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Git VCS mapping to project configuration" />
+    <MESSAGE value="Add Git VCS directory mapping to project configuration" />
+    <MESSAGE value="Update image path in main.py for correct directory structure" />
+    <MESSAGE value="Add image processing functions for entropy calculation and quantization" />
+    <MESSAGE value="Update .gitignore to ignore the .idea directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore to ignore the .idea directory" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Information_theory$lab_1.coverage" NAME="lab_1 Coverage Results" MODIFIED="1774561750484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Information_theory$generate.coverage" NAME="generate Coverage Results" MODIFIED="1779545627183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Information_theory$main.coverage" NAME="main Coverage Results" MODIFIED="1779546279784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Information_theory$lab_2.coverage" NAME="lab_2 Coverage Results" MODIFIED="1778187846889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
